@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "deploy": "truffle deploy --network mainnet"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.25"
+  }
+}
